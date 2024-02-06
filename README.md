@@ -1,4 +1,4 @@
-# Projeto API em .Net 8 para controle e cadastro de Contatos
+# Projeto API em .Net 8 para Cadastro de Empresas e Funcionários pertencentes a elas
 
 ### Tecnologias utilizadas:
 * AspNet 8 API
